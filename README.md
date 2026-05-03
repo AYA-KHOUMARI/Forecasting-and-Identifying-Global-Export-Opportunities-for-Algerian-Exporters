@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 Algeria's export economy is heavily concentrated in hydrocarbons (~92% of total exports in 2023). This project addresses the strategic need for export diversification by building a data-driven ML system that:
 
@@ -17,7 +17,7 @@ The system supports institutions such as **CACI** (Algerian Chamber of Commerce 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Collect and integrate trade data from multiple sources (UN Comtrade, WTO, Trade Map, World Bank)
 - Engineer meaningful economic features (growth rates, market share, demand indicators)
@@ -28,7 +28,7 @@ The system supports institutions such as **CACI** (Algerian Chamber of Commerce 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 algerian-export-opportunities/
@@ -61,7 +61,7 @@ algerian-export-opportunities/
 
 ---
 
-## 📊 Data Sources
+##  Data Sources
 
 | Source | Description | Link |
 |--------|-------------|------|
@@ -74,16 +74,16 @@ All datasets are publicly available and comply with data privacy requirements.
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
-### Step 1 — Data Collection
+### Step 1 : Data Collection
 
 - International trade data (exports/imports by product and country)
 - Economic indicators (GDP, trade growth, market size)
 - Algerian export data from public sources
 - Sectoral and product-level trade statistics
 
-### Step 2 — Data Preparation & Feature Engineering
+### Step 2 : Data Preparation & Feature Engineering
 
 - Cleaning and harmonizing multi-source datasets
 - Handling missing values and inconsistencies
@@ -94,7 +94,7 @@ All datasets are publicly available and comply with data privacy requirements.
   - Trade balance indicators
   - Product diversification metrics
 
-### Step 3 — Model Development
+### Step 3 : Model Development
 
 **Clustering**
 - Group countries by import demand patterns
@@ -108,7 +108,7 @@ All datasets are publicly available and comply with data privacy requirements.
 - Predict future trade volume and value trends
 - Forecast demand for specific products and sectors
 
-### Step 4 — Evaluation
+### Step 4 : Evaluation
 
 | Task | Metrics |
 |------|---------|
@@ -118,7 +118,7 @@ All datasets are publicly available and comply with data privacy requirements.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started:
 
 ### Prerequisites
 
@@ -151,7 +151,7 @@ python dashboard/pipeline.py
 
 ---
 
-## 📈 Dashboard
+##  Dashboard:
 
 An interactive dashboard (built with **Grafana** or Apache Superset / Metabase) allows stakeholders to:
 
@@ -163,7 +163,7 @@ An interactive dashboard (built with **Grafana** or Apache Superset / Metabase) 
 
 ---
 
-## ✅ Success Criteria
+##  Success Criteria:
 
 - Correctly identify promising international markets for Algerian exporters
 - Discover high-demand global products aligned with Algerian export potential
@@ -174,7 +174,7 @@ An interactive dashboard (built with **Grafana** or Apache Superset / Metabase) 
 
 ---
 
-## 📦 Deliverables
+##  Deliverables:
 
 - Integrated multi-source international trade dataset (at least 2 sources)
 - Documented Jupyter notebooks (preprocessing, feature engineering, modeling)
@@ -186,7 +186,7 @@ An interactive dashboard (built with **Grafana** or Apache Superset / Metabase) 
 
 ---
 
-## 📌 Limitations & Future Work
+##  Limitations & Future Work:
 
 - Data availability and granularity may vary across sources
 - Trade opportunity scores are based on historical patterns and may not reflect geopolitical shifts
@@ -194,14 +194,12 @@ An interactive dashboard (built with **Grafana** or Apache Superset / Metabase) 
 
 ---
 
-## 👥 Authors
 
-- **Your Name** — [your-email@ensia.edu.dz](mailto:your-email@ensia.edu.dz)
 
 *ENSIA — Machine Learning Project, Spring 2025–2026*
 
 ---
 
-## 📄 License
+##  License:
 
 This project is for academic purposes only.
