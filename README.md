@@ -71,7 +71,7 @@ algerian-export-opportunities/
 | World Bank | GDP, economic indicators, WITS | [data.worldbank.org](https://data.worldbank.org/) |
 
 All datasets are publicly available and comply with data privacy requirements.
-
+--> The link of google drive where the raw datasets is here : https://drive.google.com/drive/folders/1BFvHJEyVUSiJkSVXvFMWl3JcJCvCXHlt?usp=sharing
 ---
 
 ##  Methodology
