@@ -85,7 +85,7 @@ All datasets are publicly available and comply with data privacy requirements.
 - Sectoral and product-level trade statistics
   
 --> All the raw datasets are available in a google drive and this is the link : https://drive.google.com/drive/folders/1BFvHJEyVUSiJkSVXvFMWl3JcJCvCXHlt?usp=sharing
-
+--> the processed dataset is available in google drive and this is the link :
 ### Step 2 : Data Preparation & Feature Engineering
 
 - Cleaning and harmonizing multi-source datasets
