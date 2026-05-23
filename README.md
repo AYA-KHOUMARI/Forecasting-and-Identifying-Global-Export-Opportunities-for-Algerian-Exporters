@@ -84,8 +84,6 @@ All datasets are publicly available and comply with data privacy requirements.
 - Algerian export data from public sources
 - Sectoral and product-level trade statistics
   
---> All the raw datasets are available in a google drive and this is the link : https://drive.google.com/drive/folders/1BFvHJEyVUSiJkSVXvFMWl3JcJCvCXHlt?usp=sharing
-
 ### Step 2 : Data Preparation & Feature Engineering
 
 - Cleaning and harmonizing multi-source datasets
@@ -96,6 +94,8 @@ All datasets are publicly available and comply with data privacy requirements.
   - Market penetration ratio
   - Trade balance indicators
   - Product diversification metrics
+
+-->  the processed dataset is available in a google drive and this is the link : [https://drive.google.com/drive/folders/1BFvHJEyVUSiJkSVXvFMWl3JcJCvCXHlt?usp=sharing](https://drive.google.com/file/d/1DLtei_Q8FUYQHyka7-QuGewcoT6kQF3Q/view?usp=sharing)
 
 ### Step 3 : Model Development
 
