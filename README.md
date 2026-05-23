@@ -63,12 +63,12 @@ algerian-export-opportunities/
 
 ##  Data Sources
 
+### Data Sources
 | Source | Description | Link |
 |--------|-------------|------|
-| UN Comtrade | Global trade database (exports/imports by product & country) | [comtrade.un.org](https://comtrade.un.org/) |
-| WTO Statistics | World trade organization data | [data.wto.org](https://data.wto.org/) |
-| ITC Trade Map | Aggregated trade flows | [trademap.org](https://trademap.org/) |
-| World Bank | GDP, economic indicators, WITS | [data.worldbank.org](https://data.worldbank.org/) |
+| CEPII BACI HS92 | Bilateral trade flows 1995–2024, 200+ countries, 5000+ products | [Download](https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37) |
+| CEPII GeoDist | Geographic & colonial features for country pairs | [Download](https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=6) |
+| World Bank API | Macroeconomic indicators 1995–2024 | Pulled via `wbgapi` in notebook |
 
 All datasets are publicly available and comply with data privacy requirements.
 
